@@ -1,7 +1,7 @@
 # Bot VetBot
 
-![Linguagem mais utilizada](https://img.shields.io/github/languages/top/:nomedeusuario/:nomedorepositorio)
-![Último commit](https://img.shields.io/github/last-commit/:nomedeusuario/:nomedorepositorio)
+![Linguagem mais utilizada](https://img.shields.io/github/languages/top/lucasimonmendes/vetbot)
+![Último commit](https://img.shields.io/github/last-commit/lucasimonmendes/vetbot)
 ![README bem legal](https://img.shields.io/badge/readme-bem_legal-8A2BE2)
 
 ```
